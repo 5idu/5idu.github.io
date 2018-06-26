@@ -17,8 +17,3 @@ Code licensed under the [Mozilla](LICENSE).
 
 
 Author *xugang*
-
-
-
-  [1]: https://5idu.github.io
-  [2]: https://github.com/5idu/5idu.github.io
