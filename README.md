@@ -4,32 +4,9 @@
 ![](https://img.shields.io/badge/element--ui-2.3.5-brightgreen.svg)
 ![](https://img.shields.io/badge/vant-1.1.2-brightgreen.svg)
 
-
-## Demo
-
-[https://5idu.github.io][1]
-
-
-## Plugin
-
-- Element (PC)
-- Vant (Mobile)
-
-
 ## Use Setup
 
 Clone ```https://github.com/5idu/5idu.github.io ```
-
-
-## Develop
-
-#### Install Run Build
-
-    npm install
-
-    npm run dev
-
-    npm run build
 
 
 ## License
